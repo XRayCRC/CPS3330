@@ -1,7 +1,5 @@
 ﻿namespace MyAvgLib
 {
-
-
     public class Avg
     {
         public static double Average(double a, double b)

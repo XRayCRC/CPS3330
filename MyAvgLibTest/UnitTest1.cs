@@ -3,8 +3,6 @@ namespace MyAvgLibTest;
 
 public class UnitTest1
 {
-
-
     [Fact]
     public void TestAvg3()
     {
